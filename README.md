@@ -161,7 +161,5 @@ Read **[CONTRIBUTING.md](./CONTRIBUTING.md)** to learn how to add new features, 
 
 ---
 
-## 🌐 Live Deployments
 
-- **Frontend App**: [https://forge2-qualifier-kanishka-mishra-ir4yk7gpi.vercel.app](https://forge2-qualifier-kanishka-mishra-ir4yk7gpi.vercel.app)
 - **Author / Developer**: **Kanishka Mishra**
