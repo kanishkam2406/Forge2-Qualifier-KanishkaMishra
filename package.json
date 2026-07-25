@@ -1,0 +1,9 @@
+{
+  "name": "forge2-qualifier-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.js",
+    "vercel-build": "node build.js"
+  }
+}
